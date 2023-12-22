@@ -45,7 +45,7 @@ The project concept was born out of the burgeoning need for a personalized styli
 ### Tools & Technologies:
 - **Mobile Development**: Android Studio, Retrofit, GSON, Room, Figma, Jetpack Compose, CameraX, DALL-E.
 - **Machine Learning**: TensorFlow, Pandas, NumPy, Google Colab.
-- **Cloud Computing**: Cloud Run, Cloud Storage, Firestore Database, Node.js, Express, Flask, Visual Studio Code, Postman.
+- **Cloud Computing**: Cloud Run, Cloud Storage, Firestore Database, Node.js, Express, FastAPI, Visual Studio Code, Postman.
 
 ### IniGua API
 [Express API Documentation](https://github.com/CH2-PS544-IniGua/capstone-express-backend/tree/main/api_documentation)
