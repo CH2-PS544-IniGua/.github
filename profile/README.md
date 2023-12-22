@@ -1,5 +1,5 @@
 # IniGua
-![IniGua Logo](https://github.com/CH2-PS544-IniGua/.github/blob/main/profile/asset/inigua.jpg?raw=true)
+<img src="https://github.com/CH2-PS544-IniGua/.github/blob/main/profile/asset/inigua.jpg?raw=true" width="300" alt="IniGua Logo"/>
 
 ## _Product-Based Capstone Project - CH2-PS544_
 
