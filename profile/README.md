@@ -1,5 +1,5 @@
 # IniGua
-![IniGua Logo](./asset/inigua.jpg)
+![IniGua Logo](https://github.com/CH2-PS544-IniGua/.github/blob/main/profile/asset/inigua.jpg?raw=true)
 
 ## _Product-Based Capstone Project - CH2-PS544_
 
@@ -66,13 +66,13 @@ Thanks go to these incredible individuals who make up the team:
 <table>
   <tr>
     <td align="center"><a href="https://github.com/afdalabdallah"><img src="https://avatars.githubusercontent.com/u/90978855?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Afdal Abdallah</b></sub></a><br /><code>M004BSY0325</code><br />Machine Learning</td>
-    <td align="center"><a href="https://github.com/Tiodwiardhana"><img src="./asset/tio.jpg" width="100px;" height="100px;" alt=""/><br /><sub><b>Tio Dwi Ardhana</b></sub></a><br /><code>M004BSY0744</code><br />Machine Learning</td>
-    <td align="center"><a href="https://github.com/widyaandiikaa" ><img src="./asset/widya.png" width="100px;" alt=""/><br /><sub><b>Widya Andika</b></sub></a><br /><code>M180BSX1174</code><br />Machine Learning</td>
+    <td align="center"><a href="https://github.com/Tiodwiardhana"><img src="https://github.com/CH2-PS544-IniGua/.github/blob/main/profile/asset/tio.jpg?raw=true" width="100px;" height="100px;" alt=""/><br /><sub><b>Tio Dwi Ardhana</b></sub></a><br /><code>M004BSY0744</code><br />Machine Learning</td>
+    <td align="center"><a href="https://github.com/widyaandiikaa" ><img src="https://github.com/CH2-PS544-IniGua/.github/blob/main/profile/asset/widya.png?raw=true" width="100px;" alt=""/><br /><sub><b>Widya Andika</b></sub></a><br /><code>M180BSX1174</code><br />Machine Learning</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/blueguy42"><img src="https://avatars.githubusercontent.com/u/70305222?v=4" width="100px;" alt=""/><br /><sub><b>Ahmad Alfani Handoyo</b></sub></a><br /><code>C002BSY3033</code><br />Cloud Computing</td>
     <td align="center"><a href="https://github.com/saulsayerz"><img src="https://avatars.githubusercontent.com/u/65936808?v=4" width="100px;" alt=""/><br /><sub><b>Saul Sayers</b></sub></a><br /><code>C002BSY3260</code><br />Cloud Computing</td>
-    <td align="center"><a href="https://github.com/hilalhmdy"><img src="./asset/sulton.jpg" width="100px;" height="100px;" alt=""/><br /><sub><b>Tri Sulton Adila</b></sub></a><br /><code>A002BSY3004</code><br />Mobile Development</td>
+    <td align="center"><a href="https://github.com/hilalhmdy"><img src="https://github.com/CH2-PS544-IniGua/.github/blob/main/profile/asset/sulton.jpg?raw=true" width="100px;" height="100px;" alt=""/><br /><sub><b>Tri Sulton Adila</b></sub></a><br /><code>A002BSY3004</code><br />Mobile Development</td>
   </tr>
 </table>
 <!-- markdownlint-enable -->
