@@ -1,7 +1,7 @@
 # IniGua
-![IniGua Logo](https://github.com/IniGua-Capstone/.github/blob/main/profile/IniGuaLogo.png)
+![IniGua Logo](./asset/inigua.jpg)
 
-## _Product-Based Capstone Project_
+## _Product-Based Capstone Project - CH2-PS544_
 
 ### Theme:
 SME Empowerment
@@ -23,6 +23,18 @@ The project concept was born out of the burgeoning need for a personalized styli
 - Photo upload portal for capturing outfits
 - History of outfit compatibility assessments
 
+### All Application Feature
+- Login
+- Register
+- Catalogue
+- Detail Product (Clothes & Pants)
+- History
+- Detail History
+- Upload picture
+
+### Additional Android Feature
+- Camera Feature to capture picture
+
 ### Project Deliverables (Summary):
 - **Week 1**: Data preparation for ML models, UI/UX prototype design, and cloud environment setup.
 - **Week 2**: Development of image segmentation and color classification models, authentication features in Android app, and API development.
@@ -35,6 +47,11 @@ The project concept was born out of the burgeoning need for a personalized styli
 - **Machine Learning**: TensorFlow, Pandas, NumPy, Google Colab.
 - **Cloud Computing**: Cloud Run, Cloud Storage, Firestore Database, Node.js, Express, Flask, Visual Studio Code, Postman.
 
+### IniGua API
+[Express API Documentation](https://github.com/CH2-PS544-IniGua/capstone-express-backend/tree/main/api_documentation)
+
+[Python API Documentatioin](https://github.com/CH2-PS544-IniGua/capstone-python-backend/tree/main/api_documentation)
+
 ### Project Challenges:
 - Ensuring the dataset reflects the latest fashion trends for accurate compatibility.
 - Gaining insights from experts in UI/UX design and the fashion industry.
@@ -42,18 +59,24 @@ The project concept was born out of the burgeoning need for a personalized styli
 ### Contributors ✨
 Thanks go to these incredible individuals:
 
-<!-- ALL-CONTRIBUTORS-LIST:START -->
+## Contributors ✨
+Thanks go to these incredible individuals who make up the team:
+
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <!-- Add team members here with their roles and GitHub profile links -->
+    <td align="center"><a href="https://github.com/afdalabdallah"><img src="https://via.placeholder.com/100" width="100px;" alt=""/><br /><sub><b>Muhammad Afdal Abdallah</b></sub></a><br /><code>M004BSY0325</code><br />Machine Learning</td>
+    <td align="center"><a href="https://github.com/Tiodwiardhana"><img src="https://via.placeholder.com/100" width="100px;" alt=""/><br /><sub><b>Tio Dwi Ardhana</b></sub></a><br /><code>M004BSY0744</code><br />Machine Learning</td>
+    <td align="center"><a href="https://github.com/widyaandiikaa"><img src="https://via.placeholder.com/100" width="100px;" alt=""/><br /><sub><b>Widya Andika</b></sub></a><br /><code>M180BSX1174</code><br />Machine Learning</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/blueguy42"><img src="https://via.placeholder.com/100" width="100px;" alt=""/><br /><sub><b>Ahmad Alfani Handoyo</b></sub></a><br /><code>C002BSY3033</code><br />Cloud Computing</td>
+    <td align="center"><a href="https://github.com/saulsayerz"><img src="https://via.placeholder.com/100" width="100px;" alt=""/><br /><sub><b>Saul Sayers</b></sub></a><br /><code>C002BSY3260</code><br />Cloud Computing</td>
+    <td align="center"><a href="https://github.com/hilalhmdy"><img src="https://via.placeholder.com/100" width="100px;" alt=""/><br /><sub><b>Tri Sulton Adila</b></sub></a><br /><code>A002BSY3004</code><br />Mobile Development</td>
   </tr>
 </table>
+<!-- markdownlint-enable -->
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ### Additional Remarks:
 Insights from experts in UI/UX design and the fashion industry would be invaluable to the success of "IniGua".
